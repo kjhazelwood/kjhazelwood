@@ -1,4 +1,10 @@
-Hello, my name is Kyle Hazelwood. I'm an Engineering Physicist for the Accelerator Division / Main Injector department at Fermi National Accelerator Laboratory (Fermilab).
+#### Hello
+My name is Kyle Hazelwood. I'm an Engineering Physicist for the Accelerator Division / Main Injector department at Fermi National Accelerator Laboratory (Fermilab).
+
+#### Let's Connect
+<a href="https://www.linkedin.com/in/kjhazelwood/">
+  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">
+</a>
 
 #### Publications
 See <a href="https://github.com/kjhazelwood/kjhazelwood/blob/main/publications.md">here</a>
