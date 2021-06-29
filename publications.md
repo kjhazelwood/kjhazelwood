@@ -1,7 +1,7 @@
 #### First Author Publications
 
 Automating Orbit Correction in the Main Injector 8 GeV Line \
-K. J. Hazelwood, I. Kourbanis, G. E. Krafczyk, and M.-J. Yang \
+K.J. Hazelwood, I. Kourbanis, G. E. Krafczyk, and M.-J. Yang \
 9th International Particle Accelerator Conference (IPAC'18), Vancouver, Canada \
 May 2018 \
 https://doi.org/10.18429/JACoW-IPAC2018-WEPAG004
